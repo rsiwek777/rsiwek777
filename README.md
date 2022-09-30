@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Radosław Siwek</h1>
 <h3 align="center">Beginner Frontend developer from Poland</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rsiwek777&label=Profile%20views&color=c815e0&style=flat-square" alt="rsiwek777" /> </p>
-
 - 🔭 I’m currently working on **improving my skills**
 
 - 🌱 I’m currently learning **React, Docker**
