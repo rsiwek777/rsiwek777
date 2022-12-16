@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **improving my skills**
 
-- 🌱 I’m currently learning **React, Docker**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **insired@gmail.com**
 
